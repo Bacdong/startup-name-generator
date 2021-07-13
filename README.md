@@ -1,4 +1,4 @@
-# startup_namer
+# Startup Name Generator
 
 A new Flutter project.
 
